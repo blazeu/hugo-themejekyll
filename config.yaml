@@ -2,3 +2,4 @@ baseURL: "https://blazeu.github.io/hugo-themejekyll"
 disablePathToLower: true
 languageCode: en-us
 title: ThemeJekyll
+theme: hemmingway2

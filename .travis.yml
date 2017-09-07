@@ -2,7 +2,7 @@ language: go
 
 install: go get -v github.com/gohugoio/hugo
 
-script: hugo --theme hemmingway2
+script: hugo
 
 deploy:
   provider: pages
