@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/2017/05/20/new-homepage-performance-improvements/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/2017/05/09/initial-launch/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/post/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazeu.github.io/hugo-themejekyll/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
